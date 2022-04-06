@@ -6,7 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Considero que un buen desarrollador de sotware necesita de ciertas habilidades y competencias para desarrollar de forma profesional su trabajo.
 
-**Dentro de las habilidades encontramos las siguientes:**
+**Dentro de las habilidades nos encontramos las siguientes:**
 
 -Conocimientos técnicos de lenguajes de programación complejos.
 -Buenas habilidades escritas, para redactar informes, diagramas e instrucciones.
