@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hectorgbravo.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mi ruta de aprendizaje hasta el momento</title>
+      <link>https://hectorgbravo.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hectorgbravo.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Mis inicios con la certificación de Azure fundamentals (AZ-900)  Durante el año 2021 tuve la oportunidad de entrar al ciclo especializado de Innovaccion Virtual, patrocinado por Microsoft, logrando certificaerme en Azure Fundamentals a través del exámen AZ-900, el cual pasé con un puntaje de más de 900.
+ Invitación en 2022 al ciclo para ser desarrollador Full Stack con el proyecto LaunchX  Durante el mes de febrero, tuve la oportunidad de inscriberme en el proyecto de LaunchX, auspiciado por Microsoft, para estar en un bootcamp con el fin de ser un desarrollador Full Stack, lo cual me motivó mucho, ya que aunque tengo mas de 30 años de experiencia en tecnologías de información, no había programado desde el año 2000 y vaya que desde entonces han cambiado radicalmente las herramientas, mas no la lógica para poder resolver los problemas, a través de una buena lógica del pensamiento.</description>
+    </item>
+    
+    <item>
       <title>La cultura de un desarrollador de software</title>
       <link>https://hectorgbravo.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
