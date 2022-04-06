@@ -6,16 +6,28 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Héctor Bravo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hectorgbravo.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 01:00:00 -0600</lastBuildDate><atom:link href="https://hectorgbravo.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About me</title>
+      <title>La cultura de un desarrollador de software</title>
+      <link>https://hectorgbravo.github.io/my_launchx_blog/posts/intro/</link>
+      <pubDate>Wed, 06 Apr 2022 01:00:00 -0600</pubDate>
+      
+      <guid>https://hectorgbravo.github.io/my_launchx_blog/posts/intro/</guid>
+      <description>Considero que un buen desarrollador de sotware necesita de ciertas habilidades y competencias para desarrollar de forma profesional su trabajo.
+Dentro de las habilidades encontramos las siguientes:
+-Conocimientos técnicos de lenguajes de programación complejos. -Buenas habilidades escritas, para redactar informes, diagramas e instrucciones. -Capacidad de resolución de problemas. -Un enfoque lógico y metódico del trabajo. -Paciencia y atención al detalle. -Ser capaz de trabajar bien por cuenta propia y como miembro de un equipo.</description>
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
       <link>https://hectorgbravo.github.io/my_launchx_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hectorgbravo.github.io/my_launchx_blog/pages/about/</guid>
       <description>Who am I Hola, aquí vas a leer un poco sobre mi 🤩
- Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit adfusique imis amplexus. Agmina per fabricator mittere Erymanthon habetque tot.
- Cineres Nile ipsa origine discurrunt adest Unde, et quem clausus, imo, virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur quis, digitis pedes.</description>
+ Mi nombre es Héctor Bravo y tengo 52 años Soy egresado de la UVEG de la carrera de Ingeniería en Gestión de TI. Estoy agradecido por la oportunidad de este Bootcamp para ser FullStack
+ Nunca es tarde para aprender
+Tengo experiencia de más de 30 años en el mundo de la informática, pero sobre todo en áreas de soporte técnico.</description>
     </item>
     
   </channel>
